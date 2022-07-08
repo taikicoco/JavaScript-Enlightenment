@@ -1,1 +1,1 @@
-# javascripe
+# JavaScript-Enlightenment
